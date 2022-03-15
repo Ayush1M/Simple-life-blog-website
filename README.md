@@ -22,11 +22,11 @@ Its a Minimalistic blog website made with HTML and CSS which is responsive.
 
 * Desktop design
 
-![](./images/cardcomponentpreview.png)
+![](./images/desktop-preview.png)
 
 * Mobile design
 
-![](./images/mobilepreview.png)
+![](./images/mobile-preview.png)
 
 ## Technologies I Used
 * Semantic HTML5
