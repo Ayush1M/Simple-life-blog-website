@@ -14,7 +14,7 @@ Its a Minimalistic blog website made with HTML and CSS which is responsive.
 
 ### Goal of the Project
 * To use the flexbox and its properties.
-* To use properties sucj as margin, padding,units(ems and rems).
+* To use properties such as margin, padding,units(ems and rems).
 * To use media queries to make the website responsive to mobile devices.
 
 
