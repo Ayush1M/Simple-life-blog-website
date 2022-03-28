@@ -7,7 +7,6 @@
       * [Screenshot](#screenshot)
  * [Technologies I Used](#technologies-i-used)
  * [What I Learned](#what-i-learned) 
- * [Acknowledgment](#acknowledgment)
 
 # Overview of the Project
 Its a Minimalistic blog website made with HTML and CSS which is responsive.
